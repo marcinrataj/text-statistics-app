@@ -1,5 +1,5 @@
 # INFO
-
+https://marcinrataj.github.io/text-statistics-app/
 
 Application showing statistics of what we enter
 #
